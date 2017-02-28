@@ -11,6 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-${helloMessage}
+${helloMessage}<br>
+<a href="getInfo">Register another account</a>
 </body>
 </html>
