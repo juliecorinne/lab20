@@ -12,6 +12,6 @@
 </head>
 <body>
 Welcome to GC Coffee Register!<br>
-<a href="getInfo">Register</a>
+<a href="getInfo">Register an account</a>
 </body>
 </html>
